@@ -24,30 +24,30 @@
     *   Any experiment can be conducted there, as the IT Security Lab network is a controlled environment where there is no room for unexpected events and where damage resulting from testing can be easily repaired and recovered from.
    
 *   **Specification of Security Lab**:    The specifications that an IT security lab building should have are explained here.
-  *    IT security labs should not be located in areas where there is a risk. But there are also mobile IT security labs used in warfield.
-  *    Since no one should have direct access to the lab room in the IT Security Lab, the lab room should not be the first room when entering the lab.
-  *    Activities in the lab room of the IT security lab should not be visible to the outside.
-  *    Normal employee of the institution should not have access to the lab room of the IT security lab.
-  *    The lab room in the IT security lab should be clean and dry.
-  *    There should be only one way to enter the lab room in the IT Security Lab. There should be no other openings in the lab room that could allow entry.
-  *    The entrance to the lab room in the IT Security Lab must be secured with a door sensor alarm.
-  *    The lab room in the IT Security Lab should be secured with a motion detector sensor alarm to notify the relevant parties if anyone enters the lab room without authorization.
-  *    Since the lab room in the IT security lab has to handle IC chips, etc., the lab room must be ESD protected.
-  *    Since the computers in the lab room of the IT security lab are configured anonymously, this lab room must have a clock that shows the standard time of that country so that the lab room staff can understand the exact time.
-  *    It should be possible to easily access all parts of the electrical circuits in the lab room of the IT security lab.
-  *    The lab room in the IT Security Lab should have two electrical circuits of 10 amps and 16 amps, they should be separately setup the earthing and protected with surge protectors.
-  *    Individually controllable lights should be provided to provide the required lighting in each specific area of ​​the lab room in the IT security lab.
-  *    The lab room in the IT security lab should have systems that can control the heat emitted by the equipment in this room and the heat generated naturally in this room.
-  *    The lab room in the IT security lab should have a smoke sensor alarm and a fluid sensor alarm in lab room to notify the relevant parties in the event of a fire or if any liquids are spilled into the lab room.
-  *    The lab room in the IT Security Lab should have a UPS system that can provide enough electricity to keep the IT Security Lab network running around the clock.
-  *    The electronics section and the network section of the lab room in the IT security lab should be separately separated.
-  *    The lab room of the IT security lab should not be equipped with equipment that may require access by other employees not involved in the security of the organization.
-  *    The lab room in the IT Security Lab should have furniture to accommodate all the equipment available in the lab room.
-  *    All equipment in the lab room of the IT security lab should emit low noise level that do not cause mental stress to the staff.
-  *    All network devices in the lab room of an IT security lab must be able to communicate with each other and be able to control each other.
-  *    The lab room in the IT security lab should have digital lockers to safely store evidence found.
-  *    The lab room must be equipped with systems for destroying papers and storage devices removed from the lab room in the IT security lab.
-  *    Since many tests and experiments in the IT Security Lab network require several days to complete, facilities for resting should also be provided in the lab room in the IT Security Lab.
+    *    IT security labs should not be located in areas where there is a risk. But there are also mobile IT security labs used in warfield.
+    *    Since no one should have direct access to the lab room in the IT Security Lab, the lab room should not be the first room when entering the lab.
+    *    Activities in the lab room of the IT security lab should not be visible to the outside.
+    *    Normal employee of the institution should not have access to the lab room of the IT security lab.
+    *    The lab room in the IT security lab should be clean and dry.
+    *    There should be only one way to enter the lab room in the IT Security Lab. There should be no other openings in the lab room that could allow entry.
+    *    The entrance to the lab room in the IT Security Lab must be secured with a door sensor alarm.
+    *    The lab room in the IT Security Lab should be secured with a motion detector sensor alarm to notify the relevant parties if anyone enters the lab room without authorization.
+    *    Since the lab room in the IT security lab has to handle IC chips, etc., the lab room must be ESD protected.
+    *    Since the computers in the lab room of the IT security lab are configured anonymously, this lab room must have a clock that shows the standard time of that country so that the lab room staff can understand the exact time.
+    *    It should be possible to easily access all parts of the electrical circuits in the lab room of the IT security lab.
+    *    The lab room in the IT Security Lab should have two electrical circuits of 10 amps and 16 amps, they should be separately setup the earthing and protected with surge protectors.
+    *    Individually controllable lights should be provided to provide the required lighting in each specific area of ​​the lab room in the IT security lab.
+    *    The lab room in the IT security lab should have systems that can control the heat emitted by the equipment in this room and the heat generated naturally in this room.
+    *    The lab room in the IT security lab should have a smoke sensor alarm and a fluid sensor alarm in lab room to notify the relevant parties in the event of a fire or if any liquids are spilled into the lab room.
+    *    The lab room in the IT Security Lab should have a UPS system that can provide enough electricity to keep the IT Security Lab network running around the clock.
+    *    The electronics section and the network section of the lab room in the IT security lab should be separately separated.
+    *    The lab room of the IT security lab should not be equipped with equipment that may require access by other employees not involved in the security of the organization.
+    *    The lab room in the IT Security Lab should have furniture to accommodate all the equipment available in the lab room.
+    *    All equipment in the lab room of the IT security lab should emit low noise level that do not cause mental stress to the staff.
+    *    All network devices in the lab room of an IT security lab must be able to communicate with each other and be able to control each other.
+    *    The lab room in the IT security lab should have digital lockers to safely store evidence found.
+    *    The lab room must be equipped with systems for destroying papers and storage devices removed from the lab room in the IT security lab.
+    *    Since many tests and experiments in the IT Security Lab network require several days to complete, facilities for resting should also be provided in the lab room in the IT Security Lab.
    
 *   **Hackers & Security Experts**:    Security experts are individuals who understand and attempt to break the security mechanisms of networks and devices in order to solve security problems. This is called ethical hacking. To perform ethical hacking, you need the permission of the owner of the device, otherwise you will face legal action.
 *   Hackers are individuals who understand and attempt to break the security systems of networks and devices for nefarious purposes.
