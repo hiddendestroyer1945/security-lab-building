@@ -1,0 +1,5 @@
+# Building Software Test Platform
+*   **Description**: To explain about the, building the software test platform, virtualization, operating system installation, 'software and applications' and backuping.
+   
+*   **Introduction**: Since it is not possible to conduct tests on the production network, this explains how to build a software test platform on a virtualization computer in the IT security lab network, the different virtualization options used for that, the different operating system options used in this software test platform, and the different software and application options used in it.
+*   The software test platform uses the Kali Linux operating system for testing and a mix of Linux and Windows operating systems for other operations. But, open source software is used for specific tasks on these operating systems.
