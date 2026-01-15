@@ -1,5 +1,5 @@
 #   Hardware and Gear
-*   **Description**:    This document explains the construction of a hardware test platform to build a IT security lab. Additionly to explain about the, introduction, IT Security, IT Security Lab, IT Security Lab Netowrk, Uses of IT Security Lab Network, specification of lab, hackers welcome, hardware requirements, obtaining required hardware, software requirements and assembling the lab network.
+*   **Description**:    This document explains the construction of a hardware test platform to build a IT security lab. Additionly to explain about the, introduction, IT Security, IT Security Lab, IT Security Lab Netowrk, Uses of IT Security Lab Network, specification of lab, hackers and security experts, hardware requirements, obtaining required hardware, software requirements and assembling the lab network.
 
 *   **Introduction**:  This document is used to understand the importance of IT security, how to set up a hardware test platform, what hardware gears are required for it and what operating systems are required, how IT security tools work, and when and how to use IT security tools to secure networks.
  
