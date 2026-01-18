@@ -40,5 +40,5 @@
     * During this installation process, this operating system is downloaded from the ISO file to the virtual hard disk where the operating system is to be installed and then installed. After the installation process is complete, select the virtual hard disk of that virtual computer to configure GRUB on the same hard disk where the operating system is installed. After the installation process is complete, restart the virtual computer and the login page of that virtual computer will be available.
     * After the installation process is complete, the installs the Linux guest addition file from the hypervisor's guest addition to enable data transfer between the base operating system and the virtual computers on the software test platform. But before that, execute the command sudo apt install build-essential dkms linux-headers-$(uname -r) to install the libraries required for this guest addition.
     * **Navigating Linux**: It explains the basic structure of Linux operating systems and how they differ from Windows operating systems.
-    
+    <u>Case Sensitive</u>: Linux operating systems are case sensitive. inux operating system can recognize both uppercase and lowercase letters. But, Windows operating systems do not. Therefore, comands give in Linux operating systems must be given in a case-sensitive manner.
     
