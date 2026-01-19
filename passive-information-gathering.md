@@ -1,2 +1,7 @@
-# Passive Information Gathering
+# Passive Information Gathering of Organizations
+* **Description**: This document explains how to collect passive information about an organization and build a profile of that organization. Additionly to explain about the, introduction, information gathering, starting the source, mining the job ads and alalyzing financial data, using google to mine sensitive information, exploring domain ownership and gathered infomation table.
 
+* **Introduction**: It explains the different methods used to collect passive information about an organization from the software test platform in the IT Security Lab network, the software programs used for that, how should a security professional think about for collecting passive information about an organization??, and how to build a profile of that organization using the information available.
+
+* **Information Gathering**: Information gathering is the act of collecting data for a specific purpose. That is, data is collected to profiling a specific target and the information in that data is used to attack.
+* The attacker searches the Internet to see if there is any information available that could be used to attack any of the organization's assets, while the security expert checks the Internet to see if has made any information available on the Internet that could be used to attack.
