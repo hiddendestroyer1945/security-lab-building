@@ -1,5 +1,5 @@
 # Passive Information Gathering of Organizations
-* **Description**: This document explains how to collect passive information about an organization and build a profile of that organization. Additionly to explain about the, introduction, information gathering, information gathering from the source,  information gathering from other sources, using google to mine sensitive information, exploring domain ownership and gathered infomation table.
+* **Description**: This document explains how to collect passive information about an organization and build a profile of that organization. Additionly to explain about the, introduction, information gathering, information gathering from the source,  information gathering from other sources and profile building of organization.
 
 * **Introduction**: It explains the different methods used to collect passive information about an organization from the software test platform in the IT Security Lab network, the software programs used for that, how should a security professional think about for collecting passive information about an organization??, and how to build a profile of that organization using the information available.
 
