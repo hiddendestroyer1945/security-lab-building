@@ -82,4 +82,15 @@
     * DNS Cache Viewing:  To view the DNS records of the IP addresses of domains requested from the local computer, enter about:networking#dns in the Firefox web browser or chrome://net-internals/#dns in the Chrome browser.
     * DNS Information Gathering Tool: nslookup, dig.
     * DNS Information Gathering Website: https://dnschecker.org/all-dns-records-of-domain.php.
-    * **Web Server Software Information**: Web server software 
+    * **Web Server Software Information**: Web servers are available on the Internet that use different types of web server software to build websites of organization. This information can be obtained from the Internet. Information such as the web server software used on the web server on which the organization's website is built, the version of that web server software, and the services and technologies used to build that website can be obtained from the Internet.
+    * By replacing the banners on the organization's website, you can prevent the website's web server software from collecting information. To do this, simply register your organization's network as a domain, configure a web server on it, change some configurations on that web server, and host the website on that web server.
+    * Web Server Software Information Gathering Site: https://www.netcraft.com/.
+    * Web Server Software Information Gathering Tool: dmitry.
+    * Web Site Banner Grabbing Tool: netcat.
+    * **Web Server Location Information**: Information can be obtained about whether the organization's web server is part of the organization's registered network domain  or is a virtual server on the network of some other organization that provides web servers. For this uses a process called traceroute, which finds the DNS path of the organization's web server.
+    * A program called Traceroute is used to find only the IP addresses in the DNS path to the web server. But, a program called VisualTraceroute is used to find the IP addresses in the DNS path to the web server and their location. A program called HPing3 is used to find the IP addresses that rejected, dropped, and accepted data packets in the DNS path to the web server, analyze them, and find the IP address of the network firewall for that IP address and to find the opened ports in the network firewall.
+    * To protect the organization's web servers from activities that provide IP addresses in the DNS path to the web server, register the organization's network as a domain, configure a network firewall on this network, and configure the firewall to reject data packets used to locate IP addresses in the DNS path.
+    * Traceroute Tool: traceroute, hping3, visual traceroute(https://visualtraceroute.net/).
+    * Traceroute Website: https://dnschecker.org/online-traceroute.php.
+
+* **Profile Building of Organization**: This explains how to build an organization's profile using the collected information. In this, a table is prepared using all the information collected by the institution.
