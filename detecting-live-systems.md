@@ -1,1 +1,4 @@
 # Detecting Live Systems
+* **Description**: It explains the processes used to detect active devices on an organization's domain's network, the programs used in each of these processes, the protocols used in these programs, and the actions taken to prevent the detection of devices running on an organization's domain network.
+
+* **Introduction**: After gathering information about an organization's domain and its network, this document describes the programs and technologies used to discover network devices, computers, and virtual machines actively running on that network. Additionly this document also explains the protocols used in these programs and how these protocols work in those programs.
