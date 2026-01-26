@@ -9,7 +9,6 @@ This repository is used for build your own security lab to better understand how
 *  **[Hardware and Gear](hardware-gear.md)**
 *  **[Building Software Test Platform](building-software-test-platform.md)**
 *  **[Passive Information Gathering](passive-information-gathering.md)**
-*  **[Active Information Gathering](active-information-gathering.md)**
 *  **[Detecting Live Systems](detecting-live-systems.md)**
 *  **[Enumerating Systems](enumerating-systems.md)**
 *  **[Automated Attack and Penetration Tools](automated-attack-and-penetration-tools.md)**
