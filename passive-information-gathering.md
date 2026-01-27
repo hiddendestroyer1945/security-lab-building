@@ -93,4 +93,12 @@
     * Traceroute Tool: traceroute, hping3, visual traceroute(https://visualtraceroute.net/).
     * Traceroute Website: https://dnschecker.org/online-traceroute.php.
 
-* **Profile Building of Organization**: This explains how to build an organization's profile using the collected information. In this, a table is prepared using all the information collected by the institution.
+* **Profile Building of Organization**: This explains how to build an organization's profile using the collected information. In this, a table is prepared using all the information collected by the institution. 
+* The organization's profile list should include the organization's name, organization's website URL, organization's domain name, organization's address, organization's phone number, organization's email ID, and organization's IP address.
+* The organization's profile list should include the organization's IP address range, information about the devices on the organization's network, and information about the organization's subdomains.
+* The organization's profile list should include the organization's domain ownership information, the organization's domain DNS information, information about the organization's web server's operating system and web server software, information about the technologies used on the organization's website, and information about hidden fields on the organization's website.
+* The organization's profile list should include information about the organization's wireless network, information about the organization's network router, and information about other network devices in the organization.
+* The company profile list should include information about the company's old website data, the company's suck domains, other domains similar to the company's domain name, sensitive information made available on the company's social media, sensitive information made available on the company's employees' social media, sensitive information made available in the company's job listing advertisements, sensitive information in the company's financial data, and information about other companies that are prepared to merge with the company.
+* The organization's profile list should include authentication information for the organization's web server and domain.
+* The organization's profile list should include information about the organization's key people, information about the wireless networks of those key people, and information about the social media of the organization's key people.
+* The organization's profile list should also include other information about the organization.
