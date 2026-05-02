@@ -1,4 +1,4 @@
-# Own Security Lab Building for testing
+# Own Security Lab Building for testing and checking
 
 The contents of this repository are used to provide the ability to build a IT security lab and to enhance IT security expertise. The techniques and tools in this repository are intended for IT security designers and IT security implementers.
 
